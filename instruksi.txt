@@ -6,3 +6,6 @@ $ git push -u origin main
 
 $ git checkout -b develop //buat branch baru
 $ git push -u origin develop
+
+$ npm i -g @railway/cli
+$ railway login
