@@ -1,0 +1,8 @@
+$ git init
+$ git remote add origin https://github.com/aldyprdn/CI-CD.git //dari github
+$ git add .
+$ git commit -m "initial commit"
+$ git push -u origin main
+
+$ git checkout -b develop //buat branch baru
+$ git push -u origin develop
