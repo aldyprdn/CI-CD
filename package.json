@@ -1,7 +1,6 @@
 {
   "name": "monolith",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node bin/www",
@@ -25,5 +24,18 @@
     "supertest": "^6.3.3",
     "swagger-ui-express": "^4.6.2",
     "yaml": "^2.2.2"
-  }
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aldyprdn/CI-CD.git"
+  },
+  "bugs": {
+    "url": "https://github.com/aldyprdn/CI-CD/issues"
+  },
+  "homepage": "https://github.com/aldyprdn/CI-CD#readme",
+  "description": ""
 }
